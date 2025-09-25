@@ -3,4 +3,5 @@
 - 授課教師：蔡芸琤老師
 - 姓名：葉恩瑀
 - 系級：科技系2年級
-- [week1](https://github.com/alisonnnnn88/programming_language/blob/main/HW1_%E6%8F%90%E6%AC%BE%E6%A9%9F%E7%B3%BB%E7%B5%B1.ipynb)
+- [hw1](https://github.com/alisonnnnn88/programming_language/blob/main/HW1_%E6%8F%90%E6%AC%BE%E6%A9%9F%E7%B3%BB%E7%B5%B1.ipynb)
+- [hw2](https://github.com/alisonnnnn88/programming_language/blob/main/HW2_%E6%8F%90%E6%AC%BE%E6%A9%9F%E7%B3%BB%E7%B5%B1AI%E5%BB%BA%E8%AD%B0.ipynb)
