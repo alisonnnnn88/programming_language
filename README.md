@@ -29,7 +29,7 @@
 - 8.每滑到該飯店會顯示飯店名稱+評價+價位+地址
   <img width="963" height="324" alt="image" src="https://github.com/user-attachments/assets/0d1a0e4f-ca88-4333-a9f5-56e000caab55" />
 - 9.以表格顯示搜尋結果;以條列式列出AI推薦的飯店詳細資訊
-  <img width="2515" height="1030" alt="image" src="https://github.com/user-attachments/assets/910bf5f3-d786-4f88-a7d5-34205774740f" />
+  <img width="2244" height="792" alt="image" src="https://github.com/user-attachments/assets/41d9f194-d742-4596-9917-09744d1172ab" />
   <img width="2556" height="919" alt="image" src="https://github.com/user-attachments/assets/1973a925-cd35-42e8-8c5b-3186032e3095" />
 - 10.可將飯店資訊寫入[Google Sheet](https://docs.google.com/spreadsheets/d/1h75idXVO6GMosL5bPUF-G76MqxOziHu1tJieRtpdkP4/edit?usp=sharing)
   <img width="2457" height="1305" alt="image" src="https://github.com/user-attachments/assets/71464407-7565-4649-935e-8c2c52eca71c" />
