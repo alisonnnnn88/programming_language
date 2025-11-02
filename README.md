@@ -8,3 +8,28 @@
 - [hw3](https://github.com/alisonnnnn88/programming_language/blob/main/HW3_%E6%8F%90%E6%AC%BE%E6%A9%9F%E7%B3%BB%E7%B5%B1(%E5%8C%AF%E5%85%A5%E5%8C%AF%E5%87%BA%E6%AA%94%E6%A1%88%E7%AD%89%E5%8A%9F%E8%83%BD).ipynb)
 - [hw4](https://github.com/alisonnnnn88/programming_language/blob/main/HW4_%E7%88%AC%E8%9F%B2.ipynb)
 - [hw5](https://github.com/alisonnnnn88/programming_language/blob/main/HW5_%E9%A3%AF%E5%BA%97%E6%9F%A5%E8%A9%A2%E5%9C%B0%E5%9C%96.ipynb)
+
+<details>
+<summary><strong>作業五功能說明</strong></summary>
+
+<br>
+
+- 1.以下拉式選單點選目標城市
+- 2.以滑桿選擇最低評價及價位上限(再看看價位要不要改成填入多少到多少)
+  <img width="2512" height="299" alt="image" src="https://github.com/user-attachments/assets/5b6e3e75-502a-4453-ae04-7a98b05e1cb4" />
+- 3.篩選只含早餐/寵物友善/停車場
+  <img width="2491" height="119" alt="image" src="https://github.com/user-attachments/assets/0758ce90-892c-47d4-a853-be42ca444344" />
+- 4.搜尋半徑為多少
+- 5.選擇以什麼方式排序列表
+  <img width="2508" height="197" alt="image" src="https://github.com/user-attachments/assets/9967d6e7-4539-41bc-b930-f2dd50742e71" />
+- 6.輸入入住及退房日期以及入住人數和房間數
+  <img width="2541" height="212" alt="image" src="https://github.com/user-attachments/assets/12937944-482e-4d36-88a2-8dbe64dd77a0" />
+- 7.成功以地圖顯示飯店位置(綠色標記為評價>=4.5;藍色標記為評價>=4;橘色標記為評價>=3.5;紅色標記為評價小於3.5;星號標記為AI推薦的飯店)
+  <img width="2381" height="1417" alt="image" src="https://github.com/user-attachments/assets/1d296320-57a5-4182-9d95-b739028a24f8" />
+- 8.每滑到該飯店會顯示飯店名稱+評價+價位+地址
+  <img width="963" height="324" alt="image" src="https://github.com/user-attachments/assets/0d1a0e4f-ca88-4333-a9f5-56e000caab55" />
+- 9.以表格顯示搜尋結果;以條列式列出AI推薦的飯店詳細資訊
+  <img width="2515" height="1030" alt="image" src="https://github.com/user-attachments/assets/910bf5f3-d786-4f88-a7d5-34205774740f" />
+  <img width="2556" height="919" alt="image" src="https://github.com/user-attachments/assets/1973a925-cd35-42e8-8c5b-3186032e3095" />
+
+</details>
