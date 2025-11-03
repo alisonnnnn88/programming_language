@@ -15,7 +15,7 @@
 <br>
 
 - 1.以下拉式選單點選目標城市
-- 2.以滑桿選擇最低評價及價位上限(再看看價位要不要改成填入多少到多少)
+- 2.以滑桿選擇最低評價及價位上限
   <img width="2512" height="299" alt="image" src="https://github.com/user-attachments/assets/5b6e3e75-502a-4453-ae04-7a98b05e1cb4" />
 - 3.篩選只含早餐/寵物友善/停車場
   <img width="2491" height="119" alt="image" src="https://github.com/user-attachments/assets/0758ce90-892c-47d4-a853-be42ca444344" />
