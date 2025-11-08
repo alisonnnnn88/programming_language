@@ -8,7 +8,7 @@
 - [hw3](https://github.com/alisonnnnn88/programming_language/blob/main/HW3_%E6%8F%90%E6%AC%BE%E6%A9%9F%E7%B3%BB%E7%B5%B1(%E5%8C%AF%E5%85%A5%E5%8C%AF%E5%87%BA%E6%AA%94%E6%A1%88%E7%AD%89%E5%8A%9F%E8%83%BD).ipynb)
 - [hw4](https://github.com/alisonnnnn88/programming_language/blob/main/HW4_%E7%88%AC%E8%9F%B2.ipynb)
 - [hw5](https://github.com/alisonnnnn88/programming_language/blob/main/HW5_%E9%A3%AF%E5%BA%97%E6%9F%A5%E8%A9%A2%E5%9C%B0%E5%9C%96.ipynb)
-- [hw6](https://github.com/alisonnnnn88/programming_language/blob/main/HW6_AI_%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E7%B5%B1.ipynb) [hw6(gradio)](https://github.com/alisonnnnn88/programming_language/blob/main/HW6_AI_%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E7%B5%B1(Gradio%E7%89%88%E6%9C%AC).ipynb)
+- [hw6](https://github.com/alisonnnnn88/programming_language/blob/main/HW6_AI_%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E7%B5%B1.ipynb) | [hw6(gradio)](https://github.com/alisonnnnn88/programming_language/blob/main/HW6_AI_%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E7%B5%B1(Gradio%E7%89%88%E6%9C%AC).ipynb)
 
 <details>
 <summary><strong>作業五功能說明</strong></summary>
@@ -43,7 +43,10 @@
 <br>
 
 - 1.可匯入pdf檔案，讀取目標頁碼頁面前500字
+<img width="2330" height="627" alt="image" src="https://github.com/user-attachments/assets/d45c70bb-6cb1-49a2-8824-7f7461c728d7" />
 - 2.以前500字做AI摘要及AI生題
-- 3.將摘要及題目等寫入google sheet
+- 3.將時間/pdf檔名/頁碼/前500字/摘要/題目等寫入[Google Sheet](https://docs.google.com/spreadsheets/d/1h75idXVO6GMosL5bPUF-G76MqxOziHu1tJieRtpdkP4/edit?usp=sharing)
+<img width="2803" height="1299" alt="image" src="https://github.com/user-attachments/assets/527b3fcd-5497-4a2f-8fd5-6fd0e137785c" />
+
 
 </details>
