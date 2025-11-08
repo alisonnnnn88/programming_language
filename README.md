@@ -43,10 +43,9 @@
 <br>
 
 - 1.可匯入pdf檔案，讀取目標頁碼頁面前500字
-<img width="2330" height="627" alt="image" src="https://github.com/user-attachments/assets/d45c70bb-6cb1-49a2-8824-7f7461c728d7" />
+  <img width="2330" height="627" alt="image" src="https://github.com/user-attachments/assets/d45c70bb-6cb1-49a2-8824-7f7461c728d7" />
 - 2.以前500字做AI摘要及AI生題
 - 3.將時間/pdf檔名/頁碼/前500字/摘要/題目等寫入[Google Sheet](https://docs.google.com/spreadsheets/d/1h75idXVO6GMosL5bPUF-G76MqxOziHu1tJieRtpdkP4/edit?usp=sharing)
-<img width="2803" height="1299" alt="image" src="https://github.com/user-attachments/assets/527b3fcd-5497-4a2f-8fd5-6fd0e137785c" />
-
+  <img width="2803" height="1299" alt="image" src="https://github.com/user-attachments/assets/527b3fcd-5497-4a2f-8fd5-6fd0e137785c" />
 
 </details>
