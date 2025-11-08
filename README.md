@@ -47,7 +47,7 @@
 - 2.AI摘要及AI生題
   <img width="2341" height="879" alt="image" src="https://github.com/user-attachments/assets/3b9a6299-d4a8-422e-93e6-f32532646e38" />
 - 3.將時間/pdf檔名/頁碼/前500字/摘要/題目等寫入[Google Sheet](https://docs.google.com/spreadsheets/d/1h75idXVO6GMosL5bPUF-G76MqxOziHu1tJieRtpdkP4/edit?usp=sharing)
-  <img width="2739" height="459" alt="image" src="https://github.com/user-attachments/assets/e2fda498-3d0a-49fe-b6b1-a653c781c041" />
+  <img width="2784" height="505" alt="image" src="https://github.com/user-attachments/assets/0c06457b-1c6e-4d10-922d-5d63397672e3" />
 - 4.加入個人化建議，方便使用者知道哪邊是重點或是需要多加熟讀的地方
   <img width="2299" height="330" alt="image" src="https://github.com/user-attachments/assets/349cb99f-f8e0-4ab5-b790-2a8529a22d01" />
 
