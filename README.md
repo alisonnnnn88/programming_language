@@ -9,6 +9,7 @@
 - [hw4](https://github.com/alisonnnnn88/programming_language/blob/main/HW4_%E7%88%AC%E8%9F%B2.ipynb)
 - [hw5](https://github.com/alisonnnnn88/programming_language/blob/main/HW5_%E9%A3%AF%E5%BA%97%E6%9F%A5%E8%A9%A2%E5%9C%B0%E5%9C%96.ipynb)
 - [hw6](https://github.com/alisonnnnn88/programming_language/blob/main/HW6_AI_%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E7%B5%B1(Gradio%E7%89%88%E6%9C%AC).ipynb)
+- [專題提案報告影片](https://www.youtube.com/watch?v=6xojB_JqrCM)
 
 <details>
 <summary><strong>作業五功能說明</strong></summary>
